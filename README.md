@@ -50,7 +50,7 @@ Import `starknet` and use the [API](https://www.starknetjs.com/docs/API/).
 
 ## 🌐 API
 
-[Click Here](https://www.starknetjs.com/docs/API/)
+[Click here](https://www.starknetjs.com/docs/API/)
 
 Please refer to the following code examples [here](https://github.com/PhilippeR26/starknet.js-workshop-typescript)! :video_game:
 
